@@ -1,7 +1,7 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  '主页': /
+  'Fork Me On GitHub': 'https://github.com/winnerwinnerchickdinner'
 rss: /atom.xml
 
 # Content
