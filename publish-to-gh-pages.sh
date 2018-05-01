@@ -6,7 +6,7 @@ git checkout master
 cd ../
 mv .deploy_git/.git/ ./public/
 cd ./public
-git config user.name  "winnerwinnerchickdinner" # 这里改成自己的 Github 用户名
+git config user.name  "winerwinerchickdinner" # 这里改成自己的 Github 用户名
 git config user.email "q5034756@icloud.com" # 这里改成自己的 Github 邮箱
 # add commit timestamp
 git add .
